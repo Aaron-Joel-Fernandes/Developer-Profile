@@ -1,0 +1,24 @@
+#body{
+    height:45%;
+    width: 45%;
+    background-color:antiquewhite;
+    background-size: 40px;
+    border-style: double;
+}
+.screen{
+    width: 80%;
+    height: 100%;
+    border-style: dashed;
+    padding: 20px;
+}
+.row{
+    width:40px;
+    color: grey;
+    padding: 20px;
+    display: inline-block;
+}
+.column{
+    width:10px;
+    color: grey;
+    padding: 10px;
+}
